@@ -1,0 +1,1 @@
+["pickup", "delivery", "pickup_lat", "pickup_lon", "delivery_lat", "delivery_lon", "distance", "equipment", "weight", "market_index", "quote_signal", "year", "month", "day", "weekday", "week", "is_weekend", "route", "lat_diff", "lon_diff", "distance_weight_ratio", "distance_squared", "market_distance", "quote_distance"]
